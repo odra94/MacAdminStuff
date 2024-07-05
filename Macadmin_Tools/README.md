@@ -110,13 +110,17 @@ Jamf Compliance Editor is a tool that provides macOS, iOS/iPadOS system administ
   <img src="/Macadmin_Tools/tool_icons/JamfComplianceEditor/install.png" width="300;"/>
 </p>
 
-## Jamfcpr
+## [Jamfcpr](https://github.com/BIG-RAT/jamfcpr)
+
+Helps move packages between Jamf servers.
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/Jamfcpr/install.png" width="300;"/>
 </p>
 
-## Managed App Schema Builder
+## [Managed App Schema Builder](https://github.com/BIG-RAT/Managed-App-Schema-Builder)
+
+Creates JSON files that can be used to set application preferences inside Jamf and deploy configuration profiles.
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/ManagedAppSchemaBuilder/install.png" width="300;"/>
