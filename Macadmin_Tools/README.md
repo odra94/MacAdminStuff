@@ -9,11 +9,15 @@ Health Check is a script to update progress with swiftDialog including Inventory
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/HealthCheck/HealthCheck1.png" width="500;"/>
   <img src="/Macadmin_Tools/tool_icons/HealthCheck/HealthCheck2.png" width="500;"/>
-  <img src="/Macadmin_Tools/tool_icons/HealthCheck/HealthCheck2.png" width="500;"/>
+  <img src="/Macadmin_Tools/tool_icons/HealthCheck/HealthCheck3.png" width="500;"/>
 </p>
 
-
 ## [Apparency](https://mothersruin.com/software/Apparency/)
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/Apparency/install.png" width="500;"/>
+</p>
+
 ## AppCleaner
 ## Maccy
 ## Pasta
