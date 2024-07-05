@@ -66,7 +66,9 @@ This little application lets you see any changes in your filesystem. If you are 
   <img src="/Macadmin_Tools/tool_icons/FSMonitor/install.png" width="300;"/>
 </p>
 
-## Hidden Bar
+## [Hidden Bar](https://github.com/dwarvesf/hidden)
+
+This is a utility that helps you hide menu bar icons.
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/HiddenBar/install.png" width="300;"/>
