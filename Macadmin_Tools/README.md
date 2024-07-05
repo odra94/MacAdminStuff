@@ -4,7 +4,7 @@ These are tools that can help in your daily work as a Macadmin. Some of them are
 
 ## [HealthCheck](https://github.com/AndrewMBarnett/HealthCheck?tab=readme-ov-file)
 
-HealthCheck is a script to update progress with swiftDialog including Inventory, Policy Check In, Jamf Protect Check In.
+HealthCheck is a script to update progress with swiftDialog including Inventory, Policy Check In, Jamf Protect Check In. it was made by [AndrewMBarnett](https://github.com/AndrewMBarnett).
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/HealthCheck/HealthCheck1.png" width="500;"/>
@@ -50,8 +50,22 @@ This is another clipboard manager. It opens up a window that shows you the entri
   <img src="/Macadmin_Tools/tool_icons/Pasta/install.png" width="300;"/>
 </p>
 
-## CopyClip
-## FSMonitor
+## [CopyClip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12)
+
+This is another clipboard manager but it lives on the top menu bar. It was [AndrewMBArnett's](https://github.com/AndrewMBarnett) first clipboard manager and he still uses it with Pasta.
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/CopyClip/install.png" width="300;"/>
+</p>
+
+## [FSMonitor](https://fsmonitor.com/)
+
+This little application lets you see any changes in the plists in your operating system. If you are trying to figure out where a setting gets set in a plist you run this and make the change and it should show you where it happened.
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/FSMonitor/install.png" width="300;"/>
+</p>
+
 ## Hidden Bar
 ## Icons
 ## iMazing Profile Editor
