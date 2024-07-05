@@ -86,7 +86,9 @@ For example:
   <img src="/Macadmin_Tools/tool_icons/icns/uninstall_animated.png" width="300;"/>
 </p>
 
-## iMazing Profile Editor
+## [iMazing Profile Editor](https://imazing.com/profile-editor)
+
+This app will help you define settings for Apple devices and you can deploy it with your MDM of choice.
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/iMazing/install.png" width="300;"/>
