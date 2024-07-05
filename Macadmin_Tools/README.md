@@ -6,11 +6,7 @@ These are tools that can help in your daily work as a Macadmin. Some of them are
 
 Health Check is a script to update progress with swiftDialog including Inventory, Policy Check In, Jamf Protect Check In.
 
-<img src="/Macadmin_Tools/tool_icons/HealthCheck/HealthCheck1.png"/>
-
-<img title="a title" alt="Alt text" src="/Macadmin_Tools/tool_icons/HealthCheck/HealthCheck1.png">
-
-![alt text for screen readers](/Macadmin_Tools/tool_icons/HealthCheck/HealthCheck1.png "Text to show on mouseover")
+<img src="/Macadmin_Tools/tool_icons/HealthCheck/HealthCheck1.png" width="100;"/>
 
 ## [Apparency](https://mothersruin.com/software/Apparency/)
 ## AppCleaner
