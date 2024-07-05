@@ -102,7 +102,9 @@ Thos tool helps you migrate data between jamf servers. You will need to be caref
   <img src="/Macadmin_Tools/tool_icons/jamf-migrator/install.png" width="300;"/>
 </p>
 
-## Jamf Compliance Editor
+## [Jamf Compliance Editor](https://trusted.jamf.com/docs/establishing-compliance-baselines)
+
+Jamf Compliance Editor is a tool that provides macOS, iOS/iPadOS system administrators with an easy way to establish and manage compliance baselines on their fleet of Apple devices.
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/JamfComplianceEditor/install.png" width="300;"/>
