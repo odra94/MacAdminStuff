@@ -67,13 +67,67 @@ This little application lets you see any changes in your filesystem. If you are 
 </p>
 
 ## Hidden Bar
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/HiddenBar/install.png" width="300;"/>
+</p>
+
 ## Icons
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/icns/install.png" width="300;"/>
+</p>
+
 ## iMazing Profile Editor
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/iMazing/install.png" width="300;"/>
+</p>
+
 ## Jamf Migrator
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/jamf-migrator/install.png" width="300;"/>
+</p>
+
 ## Jamf Compliance Editor
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/JamfComplianceEditor/install.png" width="300;"/>
+</p>
+
 ## Jamfcpr
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/Jamfcpr/install.png" width="300;"/>
+</p>
+
 ## Managed App Schema Builder
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/ManagedAppSchemaBuilder/install.png" width="300;"/>
+</p>
+
 ## Support App
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/Support/install.png" width="300;"/>
+</p>
+
 ## Suspicious Package
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/SuspiciousPackage/install.png" width="300;"/>
+</p>
+
 ## UTM
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/UTM/install.png" width="300;"/>
+</p>
+
 ## DFUBLaster
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/DFUBlaster/install.png" width="300;"/>
+</p>
