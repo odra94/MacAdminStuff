@@ -78,9 +78,11 @@ This is a utility that helps you hide menu bar icons.
 
 This app helps you create icons for your applications. You drag and drop an application into it and it will make an install icon, an uninstall icon and an uninstall icon animation.
 
+For example:
+
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/icns/install.png" width="300;"/>
-  <img src="/Macadmin_Tools/tool_icons/icns/unistall.png" width="300;"/>
+  <img src="/Macadmin_Tools/tool_icons/icns/uninstall.png" width="300;"/>
   <img src="/Macadmin_Tools/tool_icons/icns/uninstall_animated.png" width="300;"/>
 </p>
 
