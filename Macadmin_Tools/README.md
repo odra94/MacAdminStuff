@@ -34,13 +34,22 @@ This app allows you to thoroughly uninstall applications from your mac. You just
 
 ## [Maccy](https://maccy.app/)
 
-This is a clipboard manager. It is my personal favorite from all the ones that I have tried. You can make the list of things you copied from your mouse pointer. They also have a github where you can get it for free and try it out. If you like it you should support the creator. [Maccy Github](https://github.com/p0deje/Maccy).
+This is a clipboard manager. It is my personal favorite from all the ones that I have tried. You can make the list of things you copied from your mouse pointer. They also have a github where you can get it for free and try it out. If you like it you should support the creator.
+
+[Maccy Github](https://github.com/p0deje/Maccy).
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/Maccy/install.png" width="300;"/>
 </p>
 
-## Pasta
+## [Pasta](https://getpasta.com/)
+
+This is another clipboard manager. It opens up a window that shows you the entries and you can pick which one you want to use. It is really nice and I was using it before Maccy.
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/Pasta/install.png" width="300;"/>
+</p>
+
 ## CopyClip
 ## FSMonitor
 ## Hidden Bar
