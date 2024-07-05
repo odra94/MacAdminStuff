@@ -14,11 +14,11 @@ Health Check is a script to update progress with swiftDialog including Inventory
 
 ## [Apparency](https://mothersruin.com/software/Apparency/)
 
-This app gives you information on other Apps. It tales over the preview for Apps when you press space.
+This app gives you information on other Apps. It takes over the preview for Apps when you press space.
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/Apparency/preview.png" width="500;"/>
-  <img src="/Macadmin_Tools/tool_icons/Apparency/install.png" width="400;"/>
+  <img src="/Macadmin_Tools/tool_icons/Apparency/install.png" width="300;"/>
 </p>
 
 ## AppCleaner
