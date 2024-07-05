@@ -4,7 +4,7 @@ These are tools that can help in your daily work as a Macadmin. Some of them are
 
 ## [HealthCheck](https://github.com/AndrewMBarnett/HealthCheck?tab=readme-ov-file)
 
-Health Check is a script to update progress with swiftDialog including Inventory, Policy Check In, Jamf Protect Check In.
+HealthCheck is a script to update progress with swiftDialog including Inventory, Policy Check In, Jamf Protect Check In.
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/HealthCheck/HealthCheck1.png" width="500;"/>
@@ -32,7 +32,14 @@ This app allows you to thoroughly uninstall applications from your mac. You just
   <img src="/Macadmin_Tools/tool_icons/AppCleaner/install.png" width="300;"/>
 </p>
 
-## Maccy
+## [Maccy](https://maccy.app/)
+
+This is a clipboard manager. It is my personal favorite from all the ones that I have tried. You can make the list of things you copied from your mouse pointer. They also have a github where you can get it for free and try it out. If you like it you should support the creator. [Maccy Github](https://github.com/p0deje/Maccy).
+
+<p align="center">
+  <img src="/Macadmin_Tools/tool_icons/Maccy/install.png" width="300;"/>
+</p>
+
 ## Pasta
 ## CopyClip
 ## FSMonitor
