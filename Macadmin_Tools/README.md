@@ -60,7 +60,7 @@ This is another clipboard manager but it lives on the top menu bar. It was [Andr
 
 ## [FSMonitor](https://fsmonitor.com/)
 
-This little application lets you see any changes in the plists in your operating system. If you are trying to figure out where a setting gets set in a plist you run this and make the change and it should show you where it happened.
+This little application lets you see any changes in your filesystem. If you are trying to figure out where a setting gets set in a plist you run this and make the change and it should show you where it happened.
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/FSMonitor/install.png" width="300;"/>
