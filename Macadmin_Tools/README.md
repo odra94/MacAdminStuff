@@ -74,10 +74,14 @@ This is a utility that helps you hide menu bar icons.
   <img src="/Macadmin_Tools/tool_icons/HiddenBar/install.png" width="300;"/>
 </p>
 
-## Icons
+## [Icons](https://github.com/SAP/macOS-icon-generator)
+
+This app helps you create icons for your applications. You drag and drop an application into it and it will make an install icon, an uninstall icon and an uninstall icon animation.
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/icns/install.png" width="300;"/>
+  <img src="/Macadmin_Tools/tool_icons/icns/unistall.png" width="300;"/>
+  <img src="/Macadmin_Tools/tool_icons/icns/uninstall_animated.png" width="300;"/>
 </p>
 
 ## iMazing Profile Editor
