@@ -94,7 +94,9 @@ This app will help you define settings for Apple devices and you can deploy it w
   <img src="/Macadmin_Tools/tool_icons/iMazing/install.png" width="300;"/>
 </p>
 
-## Jamf Migrator
+## [Jamf Migrator](https://github.com/jamf/JamfMigrator)
+
+Thos tool helps you migrate data between jamf servers. You will need to be careful in the order you migrate things because the order of how you transfer things matters. For example, if a category does not exist in the server you are transfering stuff to and you try to move a policy in that policy it will probably fail.
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/jamf-migrator/install.png" width="300;"/>
