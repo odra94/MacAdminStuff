@@ -44,7 +44,7 @@ This is a clipboard manager. It is my personal favorite from all the ones that I
 
 ## [Pasta](https://getpasta.com/)
 
-This is another clipboard manager. It opens up a window that shows you the entries and you can pick which one you want to use. It is really nice and I was using it before Maccy.
+This is another clipboard manager. It opens up a window that shows you the entries and you can pick which one you want to use. It is really nice and I was using it before Maccy. You can also use it for free and if you like it you can upgrade.
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/Pasta/install.png" width="300;"/>
