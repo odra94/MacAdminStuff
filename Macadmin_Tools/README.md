@@ -17,7 +17,7 @@ Health Check is a script to update progress with swiftDialog including Inventory
 This app gives you information on other Apps. It tales over the preview for Apps when you press space.
 
 <p align="center">
-  <img src="Macadmin_Tools/tool_icons/Apparency/preview.png" width="500;"/>
+  <img src="/Macadmin_Tools/tool_icons/Apparency/preview.png" width="500;"/>
   <img src="/Macadmin_Tools/tool_icons/Apparency/install.png" width="400;"/>
 </p>
 
