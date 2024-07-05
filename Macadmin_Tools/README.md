@@ -15,7 +15,7 @@ Health Check is a script to update progress with swiftDialog including Inventory
 ## [Apparency](https://mothersruin.com/software/Apparency/)
 
 <p align="center">
-  <img src="/Macadmin_Tools/tool_icons/Apparency/install.png" width="500;"/>
+  <img src="/Macadmin_Tools/tool_icons/Apparency/install.png" width="400;"/>
 </p>
 
 ## AppCleaner
