@@ -126,26 +126,28 @@ Creates JSON files that can be used to set application preferences inside Jamf a
   <img src="/Macadmin_Tools/tool_icons/ManagedAppSchemaBuilder/install.png" width="300;"/>
 </p>
 
-## Support App
+## [Support App](https://github.com/root3nl/SupportApp)
+
+This is a menu bar utility that can give you easy access to computer information or you can set up quick actions.
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/Support/install.png" width="300;"/>
 </p>
 
-## Suspicious Package
+## [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/)
+
+This application helps you analyze how a package is built and what it has inside.
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/SuspiciousPackage/install.png" width="300;"/>
 </p>
 
-## UTM
+## [UTM](https://mac.getutm.app/)
+
+A tool to help you virtualize operating systems of Apple devices on your device. You can virtualize iPhones, iPads, Macs, Apple TV and Vision Pro. It can also help you test other operating systems. It is like a VM.
+
+You also need to know about the [IPSW](https://ipsw.me/) site. There you can download the files to install the emulations.
 
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/UTM/install.png" width="300;"/>
-</p>
-
-## DFUBLaster
-
-<p align="center">
-  <img src="/Macadmin_Tools/tool_icons/DFUBlaster/install.png" width="300;"/>
 </p>
