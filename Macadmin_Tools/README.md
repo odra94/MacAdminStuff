@@ -151,3 +151,22 @@ You also need to know about the [IPSW](https://ipsw.me/) site. There you can dow
 <p align="center">
   <img src="/Macadmin_Tools/tool_icons/UTM/install.png" width="300;"/>
 </p>
+
+## [Installomator](https://github.com/Installomator/Installomator)
+
+An installation script to deploy software to macs.
+
+
+## [Setup Your Mac](https://github.com/setup-your-mac/Setup-Your-Mac)
+
+Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment.
+
+Also check out Dan K. Snelson's blog post about it [here](https://snelson.us/2024/06/setup-your-mac-1-15-0-with-sym-helper-1-2-0-via-swiftdialog-2-5-0/).
+
+## [App Auto Patch](https://github.com/robjschroeder/App-Auto-Patch)
+
+This is a script that helps you patch applications through a nice dialog window. It checks installed applications on your device and then uses installomator to update them if there is any new updates available.
+
+## [SUPERMAN](https://github.com/Macjutsu/super)
+
+This tool helps with the macOS updates in your environment. It gets deployeed to your environment and eventually forces people to update based on your configurations.
