@@ -1,3 +1,3 @@
 # MacAdminStuff
-This repository is where I am saving and sharing ideas, workflows and scripts to use with Jamf Administration.
+This repository to share ideas, workflows and scripts to use with Jamf Administration.
 
