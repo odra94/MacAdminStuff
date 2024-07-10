@@ -21,7 +21,7 @@ Dan Snelson's Recon at Reboot: ([Recon at Reboot](https://snelson.us/2022/08/rec
 Joel Bruner's Auto Login Script: ([Joel Bruner's Github](https://github.com/brunerd))
 
   - We used this script in order to login with the created account.
-  - I forked the repo after account variables were added in to the script: ([forked repo link](https://github.com/AndrewMBarnett/macAdminTools/blob/main/Scripts/getAutoLogin.sh)
+  - I forked the repo after account variables were added in to the script: ([forked repo link](https://github.com/AndrewMBarnett/macAdminTools/blob/main/Scripts/getAutoLogin.sh))
 
 Dan Snelson's Setup Your Mac: ([Setup Your Mac](https://snelson.us/2024/06/setup-your-mac-1-15-0-with-sym-helper-1-2-0-via-swiftdialog-2-5-0/))
 
