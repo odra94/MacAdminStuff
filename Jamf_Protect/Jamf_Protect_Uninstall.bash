@@ -2,8 +2,8 @@
 
 ######################################
 # By: Oscar Reyes
-# Last Update: October 5, 2023
-# This script is meant to always download the latest version of Jamf Protect and install it.
+# Last Update: December 18, 2024
+# This script is meant to always download the latest version of Jamf Protect uninstall package.
 ######################################
 
 #############################
